@@ -14,11 +14,11 @@
 - **分栏**：将版面分成2–3栏，模仿报纸风格。
 - **插图**：
   - 丹麦国旗。
-  - ![丹麦国旗](https://p1.ssl.qhimg.com/t01f228a840daa9040b.png)
+  - ![丹麦国旗](https://github.com/SigmaDCY/Posters/blob/72046d919dae644f53fb959c27200e7328a57368/assets/denmarkFlag.png)
   - 大卫之星项链。
-  - > ![大卫之星项链](https://cbu01.alicdn.com/img/ibank/O1CN01Oo7l9G1PSJ7tQkeOH_!!2206510641839-0-cib.jpg)
+  - > ![大卫之星项链](https://github.com/SigmaDCY/Posters/blob/72046d919dae644f53fb959c27200e7328a57368/assets/theStarOfDavid.jpg)
   - 纳粹士兵的靴子（象征压迫）。
-  - 》 ![纳粹士兵的靴子](https://picx.zhimg.com/50/v2-33f4756b12c570afa2151a0b31c7a3f6_720w.jpg)
+  - 》 ![纳粹士兵的靴子](https://github.com/SigmaDCY/Posters/blob/552d82d70dfc4a2ff77f04c60a2582a1bcb2e04d/assets/germanBoots.jpg)
 
 ## 三、英文文章内容（可直接抄写）
 
@@ -99,9 +99,10 @@ This book makes you ask yourself: **What would I do?** Would I have the courage 
   - 日记本手绘，封面上写“Kitty”。
   - （发挥想象力）
   - 书架（象征秘密 Annex 的入口）。
-  - ![书架](https://www.annefrank.org/media/filer_public_thumbnails/filer_public/50/af/50afaa82-ebeb-4dce-b923-c836a31eb5e1/zoom_video_header_still_-_landingspagina_het_achterhuis.jpg__1024x768_q85_crop_subsampling-2_upscale.jpg)
+  - ![书架](https://github.com/SigmaDCY/Posters/blob/552d82d70dfc4a2ff77f04c60a2582a1bcb2e04d/assets/secretAnex.jpg)
   - 栗子树（安妮在窗边看到的树）。
-  - 大卫之星、纳粹标志（批判性使用）。
+  - 纳粹标志（批判性使用）。
+  - ![纳粹标志](https://github.com/SigmaDCY/Posters/blob/552d82d70dfc4a2ff77f04c60a2582a1bcb2e04d/assets/naziSign.png)
 
 
 ## 三、英文文章内容（可直接抄写）
