@@ -18,7 +18,6 @@
   - 丹麦国旗。
   - ![丹麦国旗](https://p1.ssl.qhimg.com/t01f228a840daa9040b.png)
   - 大卫之星项链。
-  - 旧鞋（象征Kirsti的鱼鞋）。
   - ![大卫之星项链](https://cbu01.alicdn.com/img/ibank/O1CN01Oo7l9G1PSJ7tQkeOH_!!2206510641839-0-cib.jpg)
   - 纳粹士兵的靴子（象征压迫）。
   - ![纳粹士兵的靴子](https://picx.zhimg.com/50/v2-33f4756b12c570afa2151a0b31c7a3f6_720w.jpg)
